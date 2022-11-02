@@ -1,1 +1,2 @@
 Testing adding multiple files to git staging!
+Testing git commit without a message (-m)
